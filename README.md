@@ -1,0 +1,4 @@
+- mkdir build dist
+- populate build folder
+- git add build and dist
+- diploy
